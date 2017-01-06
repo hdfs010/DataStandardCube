@@ -63,15 +63,19 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 ***
 
 1. 数据标准管理产品功能架构
+
 ![MacDown Screenshot](doc/screenshot/images/01.png) 
 
 2. 推动数据标准落地执行
+
 ![MacDown Screenshot](doc/screenshot/images/02.png)
 
 3. 辅助系统数据模型设计
+
 ![MacDown Screenshot](doc/screenshot/images/03.png)
 
 4. 构建可持续发展数据标准管理体系
+
 ![MacDown Screenshot](doc/screenshot/images/04.png)
 
 ## 版本说明
