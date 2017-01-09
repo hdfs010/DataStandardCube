@@ -61,16 +61,20 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 
 ***
 
-1. 数据标准管理产品功能架构
+一. 数据标准管理产品功能架构
+
 ![MacDown Screenshot](doc/screenshot/images/01.png) 
 
-2. 推动数据标准落地执行
+二. 推动数据标准落地执行
+
 ![MacDown Screenshot](doc/screenshot/images/02.png)
 
-3. 辅助系统数据模型设计
+三. 辅助系统数据模型设计
+
 ![MacDown Screenshot](doc/screenshot/images/03.png)
 
-4. 构建可持续发展数据标准管理体系
+四. 构建可持续发展数据标准管理体系
+
 ![MacDown Screenshot](doc/screenshot/images/04.png)
 
 
@@ -169,8 +173,11 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 
 ![MacDown Screenshot](doc/screenshot/bushu/20.png)
 
+
 3.看到如下启动界面显示，代表系统运行成功。
+
 ![MacDown Screenshot](doc/screenshot/bushu/21.png)
+
 
 4.接着输入http://localhhost:8080/dsm,会看到登陆页面，然后属于默认用户admin/123456.查看效果。
 ![MacDown Screenshot](doc/screenshot/bushu/22.png)
@@ -183,7 +190,9 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 1.在dsm项目根目录下，对着build.xml右键选中，下图按钮。
 ![MacDown Screenshot](doc/screenshot/bushu/24.png)
 
+
 2.看到下图显示，表现打包脚本顺利完成。
+
 ![MacDown Screenshot](doc/screenshot/bushu/25.png)
 
 
