@@ -96,6 +96,14 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 
 
 
+## 所使用的技术架构
+ * 框架说明：
+  * 视图层V：HTML、CSS、JAVASCRIPT、NUI组件([普元](http://www.primeton.com/)公司内部使用的UI客户端)、JSP2.1
+  * 控制层C：SPRING（推存版本Spring2.5）
+  * 持久层M：HIBERNATE3 (推存版本Hibernate3.4.0)
+  * 数据传输与解析工具类：dom4j解析xml、ojdbc14链接oracle数据库、json-lib解析json数据等。
+  
+  
 
 ## 版本说明
 
