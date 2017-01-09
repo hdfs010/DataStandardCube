@@ -78,6 +78,25 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 ![MacDown Screenshot](doc/screenshot/images/04.png)
 
 
+## 总体物理模型图
+
+* 1. 以下物理模型图主要是系统业务相关的数据库实体，涉及到功能包括数据标准信息项查询，标准代码查询，数据标准电子版查询，数据变更记录查询，数据标准需求提交，数据标准需求审核，数据标准变更需求提交，数据标准变更需求审批等相关业务。
+
+![MacDown Screenshot](doc/screenshot/images/05.png)
+
+
+* 2. 以下物理模型图主要是系统权限相关的数据库实体，涉及到功能包括系统用户信息，用户所属角色，用户所属组，角色，角色资源，组，菜单资源，菜单角色等相关系统管理。
+
+![MacDown Screenshot](doc/screenshot/images/06.png)
+
+
+* 3. 以下物理模型图主要是系统配置相关的数据库实体，涉及到功能包括，系统代码映射，用户操作日志，系统参数配置等相关系统配置。
+
+![MacDown Screenshot](doc/screenshot/images/07.png)
+
+
+
+
 ## 版本说明
 
 **1.版本说明**
