@@ -206,9 +206,9 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 
 ***下载地址：***
 
-[<font color=green>Source code (zip)</font>](src/dsm.src.zip)
+[Source code (zip)](src/dsm.src.zip)
 
-[<font color=green>Source code (tar.gz)</font>](src/dsm.src.tar.gz)
+[Source code (tar.gz)](src/dsm.src.tar.gz)
 
 
 
