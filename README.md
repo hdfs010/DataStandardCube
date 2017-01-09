@@ -6,7 +6,7 @@
 
 Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）是一个高性能、易管控的数据标准管理平台，对数据字典、逻辑数据模型、元数据等制定统一标准的数据定义和统一标准的数据模型，清晰定义了每个数据元素的代码、名称、描述、来源等属性，减少数据定义二义性，规范系统建设时对业务的统一理解，增强了业务部门、技术部门对数据的定义与使用的一致性，促进系统集成和信息资源共享，为企业提供统一的信息视图和数据规范，支持管理信息能力的发展。
 
-数据标准平台提供便捷的标准查询、发布以及清晰的标准落地情况，可以清晰的查询数据标准定义公共代码、信息项的概要信息、详细信息，也可以导出WORD存档，及时掌握系统数据定义和使用的标准化情况，暴露各系统数据标准问题，结合业务规则发布数据标准，执行数据标准计划，通过查询数据标准在在系统中的落地情况，真正的掌握数据标准业务数据在业务系统中真正贯彻的情况，做到技术与业务环节真正的打通
+数据标准平台提供便捷的标准查询、发布以及清晰的标准落地情况，可以清晰的查询数据标准定义公共代码、信息项的概要信息、详细信息，也可以导出WORD存档，及时掌握系统数据定义和使用的标准化情况，暴露各系统数据标准问题，结合业务规则发布数据标准，执行数据标准计划，通过查询数据标准在在系统中的落地情况，真正的掌握数据标准业务数据在业务系统中真正贯彻的情况，做到技术与业务环节真正的打通。
 
 
 * 1.1  数据标准发布查询
@@ -33,7 +33,7 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 
 [普元](http://www.primeton.com/)数据标准管理平台的数据标准需求包括数据标准需求提交，数据标准需求审核等。
 
-2.**产品关键特性**
+**2.产品关键特性**
 
 * 2.1 体系浏览
 
@@ -139,17 +139,23 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 * 四. ***安装第四步***，修改eclipse jdk到1.6.XX。
 
 1.修改开发工具eclipse的编译环境jdk为1.6.XX。
+
 ![MacDown Screenshot](doc/screenshot/bushu/10.png)
 
+
 2.修改后，完后的截图效果如下。
+
 ![MacDown Screenshot](doc/screenshot/bushu/11.png)
 
 * 五. ***安装第五步***，部署到tomcat6.0.XX
 
 1.本机修改源代码中的数据库链接如下图。
+
 ![MacDown Screenshot](doc/screenshot/bushu/12.png)
 
+
 2.编译工程，然后发布到tomcat.
+
 ![MacDown Screenshot](doc/screenshot/bushu/13.png)
 
 
@@ -188,6 +194,7 @@ Primeton DataStandardCube6LA（[普元](http://www.primeton.com/)数据标准）
 * 六. ***安装第六步***，验证打包脚本build.xml
 
 1.在dsm项目根目录下，对着build.xml右键选中，下图按钮。
+
 ![MacDown Screenshot](doc/screenshot/bushu/24.png)
 
 
